@@ -1,6 +1,6 @@
 <div align="centre">
   <h1>Hi 👋, I’m Soniya Dhadse</h1>
- 👀 I’m interested in Data Science<br>
+<h2> 👀 I’m interested in Data Science<h2>
  <h3>📫 Reach me</h3>
   dhadse.soniya@gmail.com
 </div>
