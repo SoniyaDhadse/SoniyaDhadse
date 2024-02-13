@@ -1,7 +1,7 @@
-<div align="centre">
+<div align="center">
   <h1>Hi 👋, I’m Soniya Dhadse</h1>
-<h2> 👀 I’m interested in Data Science<h2>
- <h3>📫 Reach me</h3>
+  <h2> 👀 Interested in Data Science</h2>
+  📫 Reach me<br>
   dhadse.soniya@gmail.com
 </div>
 
