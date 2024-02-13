@@ -1,4 +1,4 @@
-<div align="center">
+<div>
   <h1>Hi 👋, I’m Soniya Dhadse</h1>
   <h2> 👀 Interested in Data Science</h2>
   📫 Reach me<br>
